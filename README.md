@@ -5,7 +5,7 @@
 ## Live URL
 [My Day Planner](https://despairgirl.github.io/Simple-Day-Planner/)
 
-![Planner Overview](https://drive.google.com/file/d/1GwYiMQexLgT2ZKvTsu8PyMjya0DlaiSG/preview) 
+[Planner Overview](https://drive.google.com/file/d/1GwYiMQexLgT2ZKvTsu8PyMjya0DlaiSG/preview) 
 
 ## what's The Problem?
 > Given a starter code, I had to create a web application that would do a few key things:
