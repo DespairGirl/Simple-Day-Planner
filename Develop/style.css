@@ -13,6 +13,7 @@ textarea{
   padding: 10px;
   font-weight: bolder;
 }
+/* Added width so image can scale with page size*/
 img {
   position: relative;
   width: 100%;
@@ -28,7 +29,7 @@ img {
 }
 #currentDay{
   font-weight: bold;
-  color: red;
+  color: red; /*changed current date color to stand out*/
 }
 
 .description{
@@ -47,27 +48,27 @@ img {
 }
 
 .hour {
-  background-color: #9f37c9;
-  color:whitesmoke;
+  background-color: #9f37c9; /*changed colour*/
+  color:whitesmoke; /* colour changed to make standout with background colour*/
   border-top: 1px dashed #000000;
-  text-align:right;
-  font-weight: bold;
-  line-height: 2;
+  text-align:right; /*aligned number text to the right*/
+  font-weight: bold; 
+  line-height: 2; /* to move text away from top border*/
   
   }
 
 .past {
-  background-color: #3d0fe4;
+  background-color: #3d0fe4; /*changed colour*/
   color: white;
 }
 
 .present {
-  background-color: #ff6961;
+  background-color: #ff6961; /* changed colour*/
   color: white;
 }
 
 .future {
-  background-color: #57b5c5;
+  background-color: #57b5c5; /*changed colour*/
   color: white;
 }
 
